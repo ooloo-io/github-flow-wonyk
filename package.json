@@ -20,7 +20,7 @@
   },
   "homepage": "https://ooloo.io/project/github-flow",
   "devDependencies": {
-    "husky": "^4.3.6",
+    "husky": "^4.3.8",
     "serve": "^11.3.2"
   },
   "husky": {
